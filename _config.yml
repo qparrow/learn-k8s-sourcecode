@@ -28,18 +28,18 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : 个人博客
+tagline: ""
 assets: /assets
-url:
-baseurl:
+url: "https://qparrow.github.io/learn-k8s-sourcecode/"
+baseurl: "/learn-k8s-sourcecode"
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
 
 #### Menu
 menu:
-  Home: /
+  Home: /learn-k8s-sourcecode
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders (I had created them already).
